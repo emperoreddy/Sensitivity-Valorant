@@ -12,6 +12,7 @@
 > Very simple app made by a beginner using only java!
 ```code
 - CODE IS IN THE SRC FOLDER
+```
 
 
 
