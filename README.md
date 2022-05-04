@@ -10,7 +10,8 @@
 
 
 > Very simple app made by a beginner using only java!
-> Code is in the src folder
+```code
+- CODE IS IN THE SRC FOLDER
 
 
 
